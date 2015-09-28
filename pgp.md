@@ -4,6 +4,7 @@ title: PGP
 permalink: /pgp/
 ---
 
+<pre>
 GPG Key ID: 749E41E5
 Key Fingerprint: 0785 5522 E6F1 64D2 308E  A130 D86E FBBC C134 BF24
 
@@ -59,3 +60,5 @@ xB+ZUPVOyiluOgMa19DwZRcauTahlXEXsKyx9jXjgHeElQdehwpCJGFUBbJMpIcJ
 A0vhx90Z1WV0Xjw=
 =nU2c
 -----END PGP PUBLIC KEY BLOCK-----
+</pre>
+
